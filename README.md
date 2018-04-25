@@ -14,8 +14,8 @@ $ git config --global user.email 'Your Email'
 初始化： `git init`
 克隆项目：`git clone`
 #### 添加/删除文件
-添加指定文件到暂缓区：`git add [file]`
-添加所有文件到暂缓区：`git add .`
+添加指定文件到暂缓区：`git add [file]`<br />
+添加所有文件到暂缓区：`git add .`<br />
 删除文件，并放入暂缓区：`git rm [file]`
 #### 代码提交
 提交至仓库：`git commit -m [*备注信息]`
